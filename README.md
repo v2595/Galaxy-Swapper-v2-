@@ -18,3 +18,7 @@ Galaxy Swapper v2 is a free Fortnite skin changer built in WPF that allows you t
 ## Endpoints used in our application
 
 * [Fortnite-Api](https://dash.fortnite-api.com)
+
+![image](https://github.com/v2595/Galaxy-Swapper-v2-/assets/174310564/8a7f90fe-5471-447e-8a2c-c4429875d61c)
+
+![image](https://github.com/v2595/Galaxy-Swapper-v2-/assets/174310564/973cbba9-b7c4-4481-9fc1-ab79007bbf01)
